@@ -1,17 +1,16 @@
 {
   "images" : [
     {
-      "idiom" : "iphone",
-      "filename" : "viewHistoryIconHL~iphone.png",
+      "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "idiom" : "iphone",
-      "filename" : "viewHistoryIconHL~iphone@2x.png",
+      "idiom" : "universal",
+      "filename" : "viewHistoryIconHL@2x.png",
       "scale" : "2x"
     },
     {
-      "idiom" : "iphone",
+      "idiom" : "universal",
       "scale" : "3x"
     }
   ],

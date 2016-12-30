@@ -7,20 +7,46 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E30EA1A61D9920FC00FD5377 /* LYNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E30EA1A41D9920FC00FD5377 /* LYNavigationController.swift */; };
-		E30EA1A71D9920FC00FD5377 /* LYTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E30EA1A51D9920FC00FD5377 /* LYTabBarController.swift */; };
-		E30EA1A91D99212C00FD5377 /* LYHomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E30EA1A81D99212C00FD5377 /* LYHomeViewController.swift */; };
-		E398D2A21D9A61210091873F /* UIBarButtonItem-Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = E398D2A11D9A61210091873F /* UIBarButtonItem-Extension.swift */; };
+		B441EA13A89E0352F6773458 /* Pods_Live.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 392497939D0C37C7776F3F6B /* Pods_Live.framework */; };
+		E30A9C831DFBE3E900C13054 /* LYBaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E30A9C821DFBE3E900C13054 /* LYBaseViewController.swift */; };
+		E30A9C851DFBFFF700C13054 /* LYRecommendController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E30A9C841DFBFFF700C13054 /* LYRecommendController.swift */; };
+		E30A9C871DFC0BA700C13054 /* LYPhoneGameController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E30A9C861DFC0BA700C13054 /* LYPhoneGameController.swift */; };
+		E30A9C891DFC0BED00C13054 /* LYAmuseController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E30A9C881DFC0BED00C13054 /* LYAmuseController.swift */; };
+		E30A9C8B1DFC0BFF00C13054 /* LYGameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E30A9C8A1DFC0BFF00C13054 /* LYGameViewController.swift */; };
+		E30A9C8D1DFC0C0800C13054 /* LYFunnyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E30A9C8C1DFC0C0800C13054 /* LYFunnyViewController.swift */; };
+		E30A9C8F1DFC0CBA00C13054 /* LYBaseAnchorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E30A9C8E1DFC0CBA00C13054 /* LYBaseAnchorViewController.swift */; };
+		E3A0AE641DF6C10C0018CC80 /* LYRootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3A0AE631DF6C10C0018CC80 /* LYRootViewController.swift */; };
+		E3A0AE691DF6C1B00018CC80 /* LYHomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3A0AE681DF6C1B00018CC80 /* LYHomeViewController.swift */; };
+		E3A0AE6B1DF6FAD50018CC80 /* UIBarButtonItem-Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3A0AE6A1DF6FAD50018CC80 /* UIBarButtonItem-Extension.swift */; };
+		E3A0AE6D1DF703760018CC80 /* LYNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3A0AE6C1DF703760018CC80 /* LYNavigationController.swift */; };
+		E3A0AE721DFA3EB30018CC80 /* LYCommon.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3A0AE711DFA3EB30018CC80 /* LYCommon.swift */; };
+		E3A0AE741DFA46A50018CC80 /* LYPageTitleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3A0AE731DFA46A50018CC80 /* LYPageTitleView.swift */; };
+		E3A0AE761DFA51810018CC80 /* UIColor-Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3A0AE751DFA51810018CC80 /* UIColor-Extension.swift */; };
+		E3A0AE781DFA6F180018CC80 /* LYPageContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3A0AE771DFA6F180018CC80 /* LYPageContentView.swift */; };
 		E3F3F0801D9572DD00B4CAF3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3F3F07F1D9572DD00B4CAF3 /* AppDelegate.swift */; };
 		E3F3F0871D9572DD00B4CAF3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E3F3F0861D9572DD00B4CAF3 /* Assets.xcassets */; };
 		E3F3F08A1D9572DD00B4CAF3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E3F3F0881D9572DD00B4CAF3 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E30EA1A41D9920FC00FD5377 /* LYNavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LYNavigationController.swift; sourceTree = "<group>"; };
-		E30EA1A51D9920FC00FD5377 /* LYTabBarController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LYTabBarController.swift; sourceTree = "<group>"; };
-		E30EA1A81D99212C00FD5377 /* LYHomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LYHomeViewController.swift; sourceTree = "<group>"; };
-		E398D2A11D9A61210091873F /* UIBarButtonItem-Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIBarButtonItem-Extension.swift"; sourceTree = "<group>"; };
+		392497939D0C37C7776F3F6B /* Pods_Live.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Live.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6FCF3F1E92E9744F5E4020F7 /* Pods-Live.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Live.release.xcconfig"; path = "Pods/Target Support Files/Pods-Live/Pods-Live.release.xcconfig"; sourceTree = "<group>"; };
+		7B2434F77F8CFFC81E817C72 /* Pods-Live.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Live.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Live/Pods-Live.debug.xcconfig"; sourceTree = "<group>"; };
+		E30A9C821DFBE3E900C13054 /* LYBaseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LYBaseViewController.swift; sourceTree = "<group>"; };
+		E30A9C841DFBFFF700C13054 /* LYRecommendController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LYRecommendController.swift; sourceTree = "<group>"; };
+		E30A9C861DFC0BA700C13054 /* LYPhoneGameController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LYPhoneGameController.swift; sourceTree = "<group>"; };
+		E30A9C881DFC0BED00C13054 /* LYAmuseController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LYAmuseController.swift; sourceTree = "<group>"; };
+		E30A9C8A1DFC0BFF00C13054 /* LYGameViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LYGameViewController.swift; sourceTree = "<group>"; };
+		E30A9C8C1DFC0C0800C13054 /* LYFunnyViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LYFunnyViewController.swift; sourceTree = "<group>"; };
+		E30A9C8E1DFC0CBA00C13054 /* LYBaseAnchorViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LYBaseAnchorViewController.swift; sourceTree = "<group>"; };
+		E3A0AE631DF6C10C0018CC80 /* LYRootViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LYRootViewController.swift; sourceTree = "<group>"; };
+		E3A0AE681DF6C1B00018CC80 /* LYHomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LYHomeViewController.swift; sourceTree = "<group>"; };
+		E3A0AE6A1DF6FAD50018CC80 /* UIBarButtonItem-Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIBarButtonItem-Extension.swift"; sourceTree = "<group>"; };
+		E3A0AE6C1DF703760018CC80 /* LYNavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LYNavigationController.swift; sourceTree = "<group>"; };
+		E3A0AE711DFA3EB30018CC80 /* LYCommon.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LYCommon.swift; sourceTree = "<group>"; };
+		E3A0AE731DFA46A50018CC80 /* LYPageTitleView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LYPageTitleView.swift; sourceTree = "<group>"; };
+		E3A0AE751DFA51810018CC80 /* UIColor-Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIColor-Extension.swift"; sourceTree = "<group>"; };
+		E3A0AE771DFA6F180018CC80 /* LYPageContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LYPageContentView.swift; sourceTree = "<group>"; };
 		E3F3F07C1D9572DD00B4CAF3 /* Live.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Live.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E3F3F07F1D9572DD00B4CAF3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E3F3F0861D9572DD00B4CAF3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -33,18 +59,162 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B441EA13A89E0352F6773458 /* Pods_Live.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		E398D2A01D9A61000091873F /* Extension */ = {
+		2A5AF43CA67F8BE3137E29DA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				E398D2A11D9A61210091873F /* UIBarButtonItem-Extension.swift */,
+				392497939D0C37C7776F3F6B /* Pods_Live.framework */,
 			);
-			path = Extension;
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		AE8B241D2C5F00AF88E8FAED /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				7B2434F77F8CFFC81E817C72 /* Pods-Live.debug.xcconfig */,
+				6FCF3F1E92E9744F5E4020F7 /* Pods-Live.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		E30A9C811DFBE3D500C13054 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				E30A9C821DFBE3E900C13054 /* LYBaseViewController.swift */,
+				E30A9C8E1DFC0CBA00C13054 /* LYBaseAnchorViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		E3A0AE591DF6C0910018CC80 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				E3A0AE701DFA3EA20018CC80 /* Config */,
+				E3A0AE5F1DF6C0C40018CC80 /* Module */,
+				E3A0AE5A1DF6C0910018CC80 /* Application */,
+				E3A0AE5B1DF6C0910018CC80 /* Categories */,
+				E3A0AE5C1DF6C0910018CC80 /* Resources */,
+				E3A0AE5D1DF6C0910018CC80 /* Utils */,
+				E3A0AE5E1DF6C0910018CC80 /* Vendor */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		E3A0AE5A1DF6C0910018CC80 /* Application */ = {
+			isa = PBXGroup;
+			children = (
+				E30A9C811DFBE3D500C13054 /* Controller */,
+			);
+			path = Application;
+			sourceTree = "<group>";
+		};
+		E3A0AE5B1DF6C0910018CC80 /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				E3A0AE6A1DF6FAD50018CC80 /* UIBarButtonItem-Extension.swift */,
+				E3A0AE751DFA51810018CC80 /* UIColor-Extension.swift */,
+			);
+			path = Categories;
+			sourceTree = "<group>";
+		};
+		E3A0AE5C1DF6C0910018CC80 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		E3A0AE5D1DF6C0910018CC80 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		E3A0AE5E1DF6C0910018CC80 /* Vendor */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Vendor;
+			sourceTree = "<group>";
+		};
+		E3A0AE5F1DF6C0C40018CC80 /* Module */ = {
+			isa = PBXGroup;
+			children = (
+				E3A0AE651DF6C19D0018CC80 /* Home */,
+				E3A0AE601DF6C0E30018CC80 /* Main */,
+			);
+			path = Module;
+			sourceTree = "<group>";
+		};
+		E3A0AE601DF6C0E30018CC80 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				E3A0AE611DF6C0F80018CC80 /* Controller */,
+				E3A0AE621DF6C0F80018CC80 /* View */,
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		E3A0AE611DF6C0F80018CC80 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				E3A0AE631DF6C10C0018CC80 /* LYRootViewController.swift */,
+				E3A0AE6C1DF703760018CC80 /* LYNavigationController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		E3A0AE621DF6C0F80018CC80 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		E3A0AE651DF6C19D0018CC80 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				E3A0AE661DF6C19D0018CC80 /* Controller */,
+				E3A0AE671DF6C19D0018CC80 /* View */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		E3A0AE661DF6C19D0018CC80 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				E3A0AE681DF6C1B00018CC80 /* LYHomeViewController.swift */,
+				E30A9C841DFBFFF700C13054 /* LYRecommendController.swift */,
+				E30A9C861DFC0BA700C13054 /* LYPhoneGameController.swift */,
+				E30A9C881DFC0BED00C13054 /* LYAmuseController.swift */,
+				E30A9C8A1DFC0BFF00C13054 /* LYGameViewController.swift */,
+				E30A9C8C1DFC0C0800C13054 /* LYFunnyViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		E3A0AE671DF6C19D0018CC80 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				E3A0AE731DFA46A50018CC80 /* LYPageTitleView.swift */,
+				E3A0AE771DFA6F180018CC80 /* LYPageContentView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		E3A0AE701DFA3EA20018CC80 /* Config */ = {
+			isa = PBXGroup;
+			children = (
+				E3A0AE711DFA3EB30018CC80 /* LYCommon.swift */,
+			);
+			path = Config;
 			sourceTree = "<group>";
 		};
 		E3F3F0731D9572DD00B4CAF3 = {
@@ -52,6 +222,8 @@
 			children = (
 				E3F3F07E1D9572DD00B4CAF3 /* Live */,
 				E3F3F07D1D9572DD00B4CAF3 /* Products */,
+				AE8B241D2C5F00AF88E8FAED /* Pods */,
+				2A5AF43CA67F8BE3137E29DA /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -66,192 +238,13 @@
 		E3F3F07E1D9572DD00B4CAF3 /* Live */ = {
 			isa = PBXGroup;
 			children = (
-				E3F3F0911D957FA700B4CAF3 /* Class */,
+				E3A0AE591DF6C0910018CC80 /* Classes */,
 				E3F3F07F1D9572DD00B4CAF3 /* AppDelegate.swift */,
 				E3F3F0861D9572DD00B4CAF3 /* Assets.xcassets */,
 				E3F3F0881D9572DD00B4CAF3 /* LaunchScreen.storyboard */,
 				E3F3F08B1D9572DD00B4CAF3 /* Info.plist */,
 			);
 			path = Live;
-			sourceTree = "<group>";
-		};
-		E3F3F0911D957FA700B4CAF3 /* Class */ = {
-			isa = PBXGroup;
-			children = (
-				E3F3F0921D957FA700B4CAF3 /* Follow */,
-				E3F3F0961D957FA700B4CAF3 /* Home */,
-				E3F3F09A1D957FA700B4CAF3 /* Live */,
-				E3F3F09E1D957FA700B4CAF3 /* Main */,
-				E3F3F0A21D957FA700B4CAF3 /* Profile */,
-				E3F3F0A61D957FA700B4CAF3 /* Tool */,
-			);
-			path = Class;
-			sourceTree = "<group>";
-		};
-		E3F3F0921D957FA700B4CAF3 /* Follow */ = {
-			isa = PBXGroup;
-			children = (
-				E3F3F0931D957FA700B4CAF3 /* Controller */,
-				E3F3F0941D957FA700B4CAF3 /* Model */,
-				E3F3F0951D957FA700B4CAF3 /* View */,
-			);
-			path = Follow;
-			sourceTree = "<group>";
-		};
-		E3F3F0931D957FA700B4CAF3 /* Controller */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Controller;
-			sourceTree = "<group>";
-		};
-		E3F3F0941D957FA700B4CAF3 /* Model */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Model;
-			sourceTree = "<group>";
-		};
-		E3F3F0951D957FA700B4CAF3 /* View */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = View;
-			sourceTree = "<group>";
-		};
-		E3F3F0961D957FA700B4CAF3 /* Home */ = {
-			isa = PBXGroup;
-			children = (
-				E3F3F0971D957FA700B4CAF3 /* Controller */,
-				E3F3F0981D957FA700B4CAF3 /* Model */,
-				E3F3F0991D957FA700B4CAF3 /* View */,
-			);
-			path = Home;
-			sourceTree = "<group>";
-		};
-		E3F3F0971D957FA700B4CAF3 /* Controller */ = {
-			isa = PBXGroup;
-			children = (
-				E30EA1A81D99212C00FD5377 /* LYHomeViewController.swift */,
-			);
-			path = Controller;
-			sourceTree = "<group>";
-		};
-		E3F3F0981D957FA700B4CAF3 /* Model */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Model;
-			sourceTree = "<group>";
-		};
-		E3F3F0991D957FA700B4CAF3 /* View */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = View;
-			sourceTree = "<group>";
-		};
-		E3F3F09A1D957FA700B4CAF3 /* Live */ = {
-			isa = PBXGroup;
-			children = (
-				E3F3F09B1D957FA700B4CAF3 /* Controller */,
-				E3F3F09C1D957FA700B4CAF3 /* Model */,
-				E3F3F09D1D957FA700B4CAF3 /* View */,
-			);
-			path = Live;
-			sourceTree = "<group>";
-		};
-		E3F3F09B1D957FA700B4CAF3 /* Controller */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Controller;
-			sourceTree = "<group>";
-		};
-		E3F3F09C1D957FA700B4CAF3 /* Model */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Model;
-			sourceTree = "<group>";
-		};
-		E3F3F09D1D957FA700B4CAF3 /* View */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = View;
-			sourceTree = "<group>";
-		};
-		E3F3F09E1D957FA700B4CAF3 /* Main */ = {
-			isa = PBXGroup;
-			children = (
-				E3F3F09F1D957FA700B4CAF3 /* Controller */,
-				E3F3F0A01D957FA700B4CAF3 /* Model */,
-				E3F3F0A11D957FA700B4CAF3 /* View */,
-			);
-			path = Main;
-			sourceTree = "<group>";
-		};
-		E3F3F09F1D957FA700B4CAF3 /* Controller */ = {
-			isa = PBXGroup;
-			children = (
-				E30EA1A41D9920FC00FD5377 /* LYNavigationController.swift */,
-				E30EA1A51D9920FC00FD5377 /* LYTabBarController.swift */,
-			);
-			path = Controller;
-			sourceTree = "<group>";
-		};
-		E3F3F0A01D957FA700B4CAF3 /* Model */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Model;
-			sourceTree = "<group>";
-		};
-		E3F3F0A11D957FA700B4CAF3 /* View */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = View;
-			sourceTree = "<group>";
-		};
-		E3F3F0A21D957FA700B4CAF3 /* Profile */ = {
-			isa = PBXGroup;
-			children = (
-				E3F3F0A31D957FA700B4CAF3 /* Controller */,
-				E3F3F0A41D957FA700B4CAF3 /* Model */,
-				E3F3F0A51D957FA700B4CAF3 /* View */,
-			);
-			path = Profile;
-			sourceTree = "<group>";
-		};
-		E3F3F0A31D957FA700B4CAF3 /* Controller */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Controller;
-			sourceTree = "<group>";
-		};
-		E3F3F0A41D957FA700B4CAF3 /* Model */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Model;
-			sourceTree = "<group>";
-		};
-		E3F3F0A51D957FA700B4CAF3 /* View */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = View;
-			sourceTree = "<group>";
-		};
-		E3F3F0A61D957FA700B4CAF3 /* Tool */ = {
-			isa = PBXGroup;
-			children = (
-				E398D2A01D9A61000091873F /* Extension */,
-			);
-			path = Tool;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -261,9 +254,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = E3F3F08E1D9572DD00B4CAF3 /* Build configuration list for PBXNativeTarget "Live" */;
 			buildPhases = (
+				F27FDF3E6A2E56B713A5913A /* [CP] Check Pods Manifest.lock */,
 				E3F3F0781D9572DD00B4CAF3 /* Sources */,
 				E3F3F0791D9572DD00B4CAF3 /* Frameworks */,
 				E3F3F07A1D9572DD00B4CAF3 /* Resources */,
+				ABC7756C2AB52189BF469C19 /* [CP] Embed Pods Frameworks */,
+				C17F4A093FD3610DB3715486 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -287,6 +283,7 @@
 				TargetAttributes = {
 					E3F3F07B1D9572DD00B4CAF3 = {
 						CreatedOnToolsVersion = 7.3.1;
+						LastSwiftMigration = 0810;
 					};
 				};
 			};
@@ -320,16 +317,75 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		ABC7756C2AB52189BF469C19 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Live/Pods-Live-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C17F4A093FD3610DB3715486 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Live/Pods-Live-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F27FDF3E6A2E56B713A5913A /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		E3F3F0781D9572DD00B4CAF3 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E398D2A21D9A61210091873F /* UIBarButtonItem-Extension.swift in Sources */,
-				E30EA1A61D9920FC00FD5377 /* LYNavigationController.swift in Sources */,
+				E30A9C831DFBE3E900C13054 /* LYBaseViewController.swift in Sources */,
+				E30A9C8B1DFC0BFF00C13054 /* LYGameViewController.swift in Sources */,
+				E3A0AE6D1DF703760018CC80 /* LYNavigationController.swift in Sources */,
+				E3A0AE761DFA51810018CC80 /* UIColor-Extension.swift in Sources */,
+				E3A0AE781DFA6F180018CC80 /* LYPageContentView.swift in Sources */,
+				E3A0AE721DFA3EB30018CC80 /* LYCommon.swift in Sources */,
+				E3A0AE6B1DF6FAD50018CC80 /* UIBarButtonItem-Extension.swift in Sources */,
 				E3F3F0801D9572DD00B4CAF3 /* AppDelegate.swift in Sources */,
-				E30EA1A91D99212C00FD5377 /* LYHomeViewController.swift in Sources */,
-				E30EA1A71D9920FC00FD5377 /* LYTabBarController.swift in Sources */,
+				E30A9C871DFC0BA700C13054 /* LYPhoneGameController.swift in Sources */,
+				E30A9C851DFBFFF700C13054 /* LYRecommendController.swift in Sources */,
+				E30A9C8F1DFC0CBA00C13054 /* LYBaseAnchorViewController.swift in Sources */,
+				E30A9C8D1DFC0C0800C13054 /* LYFunnyViewController.swift in Sources */,
+				E3A0AE741DFA46A50018CC80 /* LYPageTitleView.swift in Sources */,
+				E30A9C891DFC0BED00C13054 /* LYAmuseController.swift in Sources */,
+				E3A0AE691DF6C1B00018CC80 /* LYHomeViewController.swift in Sources */,
+				E3A0AE641DF6C10C0018CC80 /* LYRootViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -432,6 +488,7 @@
 		};
 		E3F3F08F1D9572DD00B4CAF3 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7B2434F77F8CFFC81E817C72 /* Pods-Live.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
@@ -439,11 +496,13 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.luyu.Live;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
 		E3F3F0901D9572DD00B4CAF3 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6FCF3F1E92E9744F5E4020F7 /* Pods-Live.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
@@ -451,6 +510,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.luyu.Live;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
